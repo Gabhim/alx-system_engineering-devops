@@ -1,2 +1,2 @@
-sake of 2 lines
+#!/bin/bash
 ls -lna
